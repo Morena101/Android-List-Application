@@ -1,4 +1,3 @@
-import org.apache.groovy.lang.annotation.Incubating
 
 pluginManagement {
     repositories {
